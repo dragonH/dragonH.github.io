@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "gitpage": "hexo clean && hexo deploy"
+    "gitpage": "git push origin source"
   },
   "hexo": {
     "version": "5.2.0"
