@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dragonH</title>
+  
+  
+  <link href="http://dragonh.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://dragonh.github.io/"/>
+  <updated>2020-10-14T03:43:40.134Z</updated>
+  <id>http://dragonh.github.io/</id>
+  
+  <author>
+    <name>dragonH</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jquery於兩個視窗間傳值的問題</title>
+    <link href="http://dragonh.github.io/2020/09/22/jquery%E6%96%BC%E5%85%A9%E5%80%8B%E8%A6%96%E7%AA%97%E9%96%93%E5%82%B3%E5%80%BC%E7%9A%84%E5%95%8F%E9%A1%8C/"/>
+    <id>http://dragonh.github.io/2020/09/22/jquery%E6%96%BC%E5%85%A9%E5%80%8B%E8%A6%96%E7%AA%97%E9%96%93%E5%82%B3%E5%80%BC%E7%9A%84%E5%95%8F%E9%A1%8C/</id>
+    <published>2020-09-22T06:33:00.000Z</published>
+    <updated>2020-10-14T03:43:40.134Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;情境問題&quot;&gt;&lt;a href=&quot;#情境問題&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="http://dragonh.github.io/categories/web/"/>
+    
+    
+    <category term="ithelp" scheme="http://dragonh.github.io/tags/ithelp/"/>
+    
+    <category term="js" scheme="http://dragonh.github.io/tags/js/"/>
+    
+    <category term="javascript" scheme="http://dragonh.github.io/tags/javascript/"/>
+    
+    <category term="browser" scheme="http://dragonh.github.io/tags/browser/"/>
+    
+    <category term="postMessage" scheme="http://dragonh.github.io/tags/postMessage/"/>
+    
+  </entry>
+  
+</feed>
