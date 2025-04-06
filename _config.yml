@@ -100,7 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 
-plugins: hexo-generate-feed
+# plugins: hexo-generate-feed
 feed:
   type: atom
   path: atom.xml
