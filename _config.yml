@@ -13,7 +13,7 @@ timezone: 'Asia/Taipei'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://dragonH.github.io
+url: https://dragonH.app
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
