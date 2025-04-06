@@ -10,7 +10,7 @@
     "gitpage": "git push origin source"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "7.3.0"
   },
   "dependencies": {
     "hexo": "^7.3.0",
